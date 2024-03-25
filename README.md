@@ -1,6 +1,6 @@
 # XPU-Menghang Ma: Research on Glioma Segmentation and Genotyping Algorithm Based on Multimodal Medical Image
 
-This is the Python implementation of XPU-Menghang Ma's master paper "Multi-Task Learning for Automated Glioma Segmentation and IDH Genotyping in Multi-parametric MRI".
+This is the Python implementation of XPU-Menghang Ma master paper "Multi-Task Learning for Automated Glioma Segmentation and IDH Genotyping in Multi-parametric MRI".
 
 ## MSA-FPN
 ### Datasets
